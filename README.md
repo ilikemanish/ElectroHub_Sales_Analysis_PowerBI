@@ -1,6 +1,4 @@
-<!-- ============================= -->
-<!-- ⚡ ELECTROHUB SALES ANALYTICS  -->
-<!-- ============================= -->
+<<h1 align="center">⚡ ElectroHub Sales & Profit Performance Analysis</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -9,8 +7,6 @@
   <img src="https://img.shields.io/badge/Business%20Intelligence-Analytics-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Visualization-Power%20BI-7C3AED?style=for-the-badge"/>
 </p>
-
-<h1 align="center">⚡ ElectroHub Sales & Profit Performance Analysis</h1>
 
 <p align="center">
   <b>📊 Turning ElectroHub Sales Data into Meaningful Business Insights</b>
